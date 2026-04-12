@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full restaurant census covering Evansville, Indiana with a population of over 117k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Evansville, Indiana, US",
+  "export_job_id": "91114a3b-5b39-490d-833e-cd1f34f8cc33",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 525083,
+  "location_name": "Evansville",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-evansville-indiana-us-sample-525083",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/525083/beamstation_525083_restaurants-us-in_SAMPLE_DIST.csv",
+  "sample_pct": 4.5,
+  "sample_records": 25,
+  "sample_sha256": "d04f272fbc005b06759ab1266dcdb2f498e426e2cd7c043cfa240415adc517bc",
+  "sample_size_bytes": 115371,
+  "total_records": 555,
+  "updated_at": "2026-03-31T12:55:35.468083+00:00"
+}
