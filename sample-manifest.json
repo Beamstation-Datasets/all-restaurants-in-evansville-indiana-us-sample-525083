@@ -1,12 +1,12 @@
 {
-  "export_job_id": "25c04616-46a3-4f33-803b-5717e3f55357",
+  "export_job_id": "56362cf6-9fe8-435b-934b-e4e6807711e7",
   "id_short": 525083,
-  "published_at": "2026-04-17T07:54:25Z",
+  "published_at": "2026-04-21T19:30:50Z",
   "repo_name": "all-restaurants-in-evansville-indiana-us-sample-525083",
   "sample_asset_name": "beamstation_525083_restaurants-us-in_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/525083/beamstation_525083_restaurants-us-in_SAMPLE_DIST.csv",
-  "sample_records": 60,
-  "sample_sha256": "c0be8526e919675af81d2748043642fbd1b359a0e0921cb8e35737386b6791a8",
-  "sample_size_bytes": 245491,
-  "total_records": 604
+  "sample_records": 53,
+  "sample_sha256": "abc8002bea72aac1f5e950282e686027431aabfb1c751d8b815017ef328b4290",
+  "sample_size_bytes": 220043,
+  "total_records": 539
 }
